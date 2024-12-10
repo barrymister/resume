@@ -17,6 +17,10 @@ This site contains an overview of my experience and skills. For more detailed in
 
 ---
 
+## Work Experience Summary
+
+Experienced Systems Engineer and Technical Consultant with over 20 years of expertise in IT infrastructure, cloud services, and data center operations. Proven ability to design, deploy, and manage enterprise systems across diverse industries, including government, healthcare, and private sectors. Skilled in virtualization, automation, and cloud-native technologies, with a strong focus on process optimization, system reliability, and team leadership.
+
 ## Skills
 
 **Cloud & Containers:** Microsoft Azure, Azure Kubernetes Service (AKS), Kubernetes (K8s/K3s), Docker, GitLab, Cloud-Native Technologies  
@@ -29,6 +33,5 @@ This site contains an overview of my experience and skills. For more detailed in
 **Productivity Software:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, OneNote, Teams, Visio)  
 **Documentation:** Writing SOPs, engineering specifications, service-level reporting  
 **Data Center Operations:** Rack management, cabling, power management  
-
 
 ---

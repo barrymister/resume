@@ -15,54 +15,20 @@ This site contains an overview of my experience and skills. For more detailed in
 
 [barry@barrymister.com](mailto:barry@barrymister.com)
 
-<!-- 
-If you have a personal statement or objective, you can include it here:
-Seeking a challenging technical leadership role where I can leverage my extensive experience in engineering, project management, and systems development to drive innovation, optimize processes, and deliver outstanding results.
--->
+---
 
-## Technical Skills
+## Skills
 
-**Cloud Services:**  
-- Microsoft Azure  
-- AWS
+**Cloud & Containers:** Microsoft Azure, Azure Kubernetes Service (AKS), Kubernetes (K8s/K3s), Docker, GitLab, Cloud-Native Technologies  
+**Operating Systems:** Windows Desktop & Server, Linux (Ubuntu, Debian, RHEL, CentOS, SUSE)  
+**Virtualization & Hyperconverged Infrastructure:** VMware vCenter/vSphere, Microsoft Hyper-V, Proxmox, Veritas Backup Exec, Cohesity Data Protect  
+**Server Management:** HP Blade Systems, Dell PowerEdge, Cisco UCS, HP iLO, Dell iDRAC  
+**Storage Solutions:** EMC VNX, SAN/NAS management, NetApp systems  
+**Networking & Security:** DNS, DHCP, Active Directory, Azure NSGs, Security Contexts in Kubernetes  
+**Identity & Access Management (IAM):** Microsoft Entra ID (Azure Active Directory), Service Principal, Managed Identities, RBAC  
+**Productivity Software:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, OneNote, Teams, Visio)  
+**Documentation:** Writing SOPs, engineering specifications, service-level reporting  
+**Data Center Operations:** Rack management, cabling, power management  
 
-**Operating Systems:**  
-- Windows Desktop & Server  
-- UNIX/Linux (Sun Solaris, RHEL, CentOS, SUSE, HP-UX)
-
-**Virtualization & Data Protection:**  
-- VMware vCenter/vSphere, VMware SRM  
-- Microsoft Hyper-V  
-- NetApp Storage  
-- Veritas Backup Exec  
-- Cohesity Data Protect
-
-**Server Management:**  
-- HP Blade Systems  
-- Dell PowerEdge  
-- Cisco UCS  
-- HP iLO  
-- Dell iDRAC
-
-**Development & Scripting:**  
-- PowerShell  
-- Python  
-- GitLab  
-- Visual Studio Code
-
-**Networking:**  
-- DNS  
-- DHCP  
-- Active Directory
-
-**Monitoring & Infrastructure Management:**  
-- SolarWinds  
-- Microsoft SCCM
-
-**Productivity Software:**  
-- Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, OneNote, Teams, Visio)
-
-**AI & Machine Learning:**  
-- Fundamental knowledge of machine learning frameworks (TensorFlow, PyTorch)
 
 ---

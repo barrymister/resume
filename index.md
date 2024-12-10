@@ -3,6 +3,14 @@ layout: page
 title: "Resume - Barry Mister"
 ---
 
+# Welcome to My Resume Page
+
+This site contains an overview of my experience and skills. For more detailed information, you can view my full resume:
+
+- [View my full resume](long-form-resume.md)
+
+---
+
 # Barry Mister
 
 [barry@barrymister.com](mailto:barry@barrymister.com)

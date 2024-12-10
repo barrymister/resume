@@ -1,6 +1,6 @@
 # Barry Mister
 
-[barry.mister@gmail.com](mailto:barry.mister@gmail.com)
+[barry@barrymister.com](mailto:barry@barrymister.com)
 
 ---
 

@@ -66,5 +66,3 @@ Seeking a challenging technical leadership role where I can leverage my extensiv
 - Fundamental knowledge of machine learning frameworks (TensorFlow, PyTorch)
 
 ---
-
-**Note:** A long-form resume, including additional details and IT work experience dating back to 1997, is available upon request.

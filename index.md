@@ -3,6 +3,8 @@ layout: page
 title: "Resume - Barry Mister"
 ---
 
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+
 # Welcome to My Resume Page
 
 This site contains an overview of my experience and skills. For more detailed information, you can view my full resume:

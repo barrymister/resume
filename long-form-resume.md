@@ -25,7 +25,6 @@ To provide technical leadership and support engineering, project management, and
 - Certified Kubernetes Administrator (CKA)
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
-- CompTIA Security+
 - CompTIA Project+
 - CompTIA Cloud Essentials
 - LPI Linux Essentials
@@ -35,6 +34,7 @@ To provide technical leadership and support engineering, project management, and
 ### Former
 - CompTIA A+
 - CompTIA Network+
+- CompTIA Security+
 - CompTIA Secure Infrastructure Specialist
 - CompTIA IT Operations Specialist
 
@@ -43,6 +43,7 @@ To provide technical leadership and support engineering, project management, and
 ## Clearance
 
 Active TS/SCI
+CI Poly
 
 ---
 

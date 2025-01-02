@@ -22,9 +22,9 @@ To provide technical leadership and support engineering, project management, and
 ## Certifications & Licenses
 
 ### Active
-- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Administrator
 - Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: Azure AI Fundamentals
 - CompTIA Project+
 - CompTIA Cloud Essentials
 - LPI Linux Essentials

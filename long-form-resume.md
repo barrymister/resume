@@ -28,7 +28,6 @@ To provide technical leadership and support engineering, project management, and
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
 - Kubernetes and Cloud Native Associate
-- Docker Certified Associate
 - PCEP™ – Certified Entry-Level Python Programmer
 - CompTIA SecurityX
 - CompTIA Project+

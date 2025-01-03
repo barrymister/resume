@@ -22,9 +22,15 @@ To provide technical leadership and support engineering, project management, and
 ## Certifications & Licenses
 
 ### Active
-- Certified Kubernetes Administrator
+- Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure Data Fundamentals
+- Kubernetes and Cloud Native Associate
+- Docker Certified Associate
+- PCEP™ – Certified Entry-Level Python Programmer
+- CompTIA SecurityX
 - CompTIA Project+
 - CompTIA Cloud Essentials
 - LPI Linux Essentials

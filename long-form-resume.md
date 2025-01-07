@@ -22,14 +22,9 @@ To provide technical leadership and support engineering, project management, and
 ## Certifications & Licenses
 
 ### Active
-- Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
-- Kubernetes and Cloud Native Associate
-- PCEP™ – Certified Entry-Level Python Programmer
-- CompTIA SecurityX
 - CompTIA Project+
 - CompTIA Cloud Essentials
 - LPI Linux Essentials
@@ -69,11 +64,11 @@ CI Poly
 
 ## Work Experience
 
-### Full Visibility (Contractor @ FBI) – Lead Technical Consultant and Sr Systems Engineer  
+### Full Visibility (Contractor @ FBI) – Lead Technical Consultant and Sr Cloud Engineer  
 Quantico, VA (06/22 – Present)
 
-#### Sr Systems Engineer
-- Provide system support for Azure Cloud environment and hosted services such as GitLab and K8s.
+#### Sr Cloud Engineer
+- Provide system support for Azure Cloud environment and hosted services such as GitLab, Mattermost, Ansible(Tower) and K8s.
 - Develop, maintain, and operate departmental Linux and container infrastructure. 
 - Develop and maintain infrastructure platform service solutions.
 - Support all Engineering Team service areas as needed.
@@ -94,6 +89,23 @@ Quantico, VA (06/22 – Present)
 - Oversee on-boarding and off-boarding processes, including orientation, badging, and gate access for team members.
 - Prepare and deliver Monthly Project Management Reviews (PMRs) to update leadership on accomplishments, challenges, and deliverable statuses.
 - Participate in quarterly status calls and annual management training to align with company goals and improve leadership skills.
+
+---
+
+### Data Craftworks, LLC – Founder & Solutions Architect  
+Stafford, VA (10/23 – Present)
+
+- Designed and implemented a hyperconverged infrastructure using Proxmox in a multinode cluster, leveraging high availability (HA) and integrated backup features to ensure system reliability and continuity.  
+- Configured and maintained reverse proxy solutions using NGINX, Traefik, and Caddy for secure and efficient routing of hosted services.  
+- Deployed and managed dynamic web pages and e-commerce platforms using GitHub Pages and Cloudflare Pages, integrating with modern frameworks such as React, Node.js, Jekyll, and custom HTML/CSS/Markdown designs.  
+- Developed and maintained CI/CD pipelines to automate updates and ensure seamless deployments for hosted services.  
+- Configured Let’s Encrypt for automated SSL certificate management, ensuring secure HTTPS connections across all hosted platforms.  
+- Leveraged Docker and Portainer for containerized application deployment and management across diverse environments.  
+- Configured and administered Apache for web hosting and static content management.  
+- Managed and maintained a TrueNAS environment for scalable storage and file-sharing services.  
+- Implemented and configured Wazuh SIEM for security monitoring and event correlation across hosted systems.  
+- Developed and maintained a Blue Iris video surveillance and security monitoring system, integrating CodeProject.AI for AI/ML-driven object detection and recognition.  
+- Provided end-to-end IT consulting services, covering infrastructure design, hosting solutions, and custom web development.
 
 ---
 

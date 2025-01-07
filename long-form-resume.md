@@ -239,6 +239,13 @@ Fairfield, AL (07/10 – 06/14)
 
 ---
 
+### Craft Work Forge, LLC – Founder  
+Hueytown, AL (09/08 – Present)
+ 
+- Provided end-to-end IT consulting services, covering infrastructure design, hosting solutions, and custom web development.
+
+---
+
 #### Support Technology Inc. (contractor @ US Steel) – Sr Systems Administrator  
 Fairfield, AL (01/07 – 07/10)
 
@@ -286,6 +293,11 @@ Birmingham, AL (01/00 – 01/05)
 - Managed Veritas Backup Exec.
 - Provide technical support on Windows 98 and Windows XP Workstations.
 
+#### University of Alabama at Birmingham – Kaleidoscope Student News Paper Web Editor  
+Birmingham, AL (04/98 – 04/99)
+
+- HTML/CSS.
+
 #### University of Alabama at Birmingham – PC Support Technician  
 Birmingham, AL (04/97 – 01/00)
 
@@ -295,3 +307,9 @@ Birmingham, AL (04/97 – 01/00)
 
 ---
 
+#### Freelance Web Design, IT Consultant  
+Birmingham, AL (07/95 – Present)
+
+- Provide technical support.
+
+---

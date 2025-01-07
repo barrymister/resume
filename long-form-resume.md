@@ -138,17 +138,15 @@ Manassas, VA (04/20 – 12/21)
 ### Leidos (Contractor @ US DOJ) – Sr Systems Engineer  
 Washington, D.C. (12/18 – 04/20)
 
-- Manage Veritas NetBackup including all appliances, media, libraries, backups, restores and scheduling.
-- Manage Azure Backup.
-- Manage Cohesity Backup.
-- Manage Microsoft SCCM.
-- Support active directory domain Group Policy and Active Directory Objects.
-- Support VMware vSphere.
-- Support all Windows Team service areas as needed.
-- Manage special projects as assigned. Including product upgrades and new product provisioning.
-- Select, develop and evaluate personnel.
-- Receive direct reports from team members for project management and reporting. 
-- Develop project planning for data protection, email management and archiving.
+- Managed enterprise backup solutions, including Veritas NetBackup, Azure Backup, and Cohesity, ensuring data protection, retention, and rapid recovery capabilities for critical systems.  
+- Administered Microsoft SCCM for software deployment, patch management, and asset inventory across large-scale Windows environments.  
+- Provided advanced support for Active Directory domains, managing Group Policies, user objects, and domain services to ensure secure and efficient operations.  
+- Supported and maintained VMware vSphere environments, ensuring optimal performance and availability of virtualized resources.  
+- Collaborated with cross-functional teams by supporting all Windows Team service areas, contributing to the smooth operation of enterprise infrastructure.  
+- Led and executed special IT infrastructure projects, including system upgrades, new product provisioning, and process improvements.  
+- Developed and managed project plans for key initiatives, including data protection, email management, and archiving, ensuring timely delivery and alignment with organizational goals.  
+- Selected, developed, and evaluated team personnel, ensuring proper staffing and skills development for ongoing and future projects.  
+- Acted as a point of contact for project reporting and management, receiving direct reports from team members and ensuring accurate and timely status updates for leadership.
 
 ---
 
@@ -162,80 +160,57 @@ Washington, D.C. (12/18 – 09/19)
 ### Ingersoll Consulting (Contractor @ US Mint) – Systems Engineer/Sr Backup Administrator  
 Washington, D.C. (05/17 – 12/18)
 
-- Manage Veritas NetBackup including all appliances, media, libraries, tape rotations, backups, restores and scheduling.
-- Manage active directory domain Group Policy and Active Directory Objects.
-- Manage Microsoft Windows hosted services including DNS and DHCP from Server 2008 through 2016.
-- Manage VMware vSphere 5.5 - 6.0 environments.
-- Conduct DR planning and testing.
-- Conduct monthly Service Level Reporting for areas of responsibility.
-- Conduct regular vulnerability remediation.
-- Manage complete Decommissioning process of the service life cycle.
-- Manage special projects as assigned. Including product upgrades and new product provisioning.
-- Manage AtHoc emergency notification system.
-- Manage Symantec Enterprise Vault Discovery Accelerator application for E-Discovery requests.
+- Managed and maintained Veritas NetBackup environments, including appliances, media, tape libraries, and off-site storage, ensuring reliable backups, restores, and disaster recovery readiness.  
+- Administered Active Directory domains, managing Group Policies and domain resources across Windows Server 2008 to 2016 environments.  
+- Managed enterprise VMware vSphere environments (versions 5.5 to 6.0), including virtual machine lifecycle, host configuration, and resource allocation.  
+- Led disaster recovery planning and testing, ensuring rapid restoration of services during outages.  
+- Conducted vulnerability remediation to maintain system security and compliance with organizational standards.  
+- Produced and delivered monthly Service Level Reports detailing operational performance and issue resolution for key stakeholders.  
+- Oversaw system decommissioning processes, ensuring proper lifecycle management and data retention compliance.  
+- Managed special IT infrastructure projects, including product upgrades, system migrations, and new service provisioning.  
+- Maintained the AtHoc emergency notification system and managed Symantec Enterprise Vault Discovery Accelerator for e-discovery requests.
 
 ---
 
 ### PDRI – Systems Engineer  
 Chantilly, VA (03/15 – 05/17)
 
-- Manage data center infrastructure. Including rack space, cabling, power management and all other functions of support and maintenance across multiple data centers and server rooms locally in Chantilly, VA and geographically dispersed on MPLS from Chicago, IL to Tampa, FL.
-- Examples, Implementation and configuration of EMC VNX 5200 and 5300 File and Block systems.
-- Manage EMC Unisphere.
-- Design and implement cloud infrastructure on HP C7000 blade chassis, BL 460c's, vSphere 5.1, 5.5 and 6.0.
-- Write NIST compliant procedures and policies.
-- Write FED Ramp compliant procedures and policies.
-- Deploy and maintain EMC RPAs.
-- Deploy and maintain EMC VNX Family Monitoring and Reporting.
-- Manage Linux hosted services on RHEL.
-- Manage active directory domain Group Policy and Active Directory Objects.
-- Manage Microsoft Windows hosted services including DNS, DHCP, WINS, DFS and IIS from Server 2008 through 2016.
-- Manage Symantec BackupExec including all media, libraries, tape rotations, backups, restores and scheduling.
-- Manage VMware vSphere 5.1 -6.0 environments.
-- Manage VMware VDP.
-- Manage VMware VUM.
+- Managed data center infrastructure across multiple geographically dispersed sites, including rack space, cabling, and power management, ensuring reliable data center operations.  
+- Designed and implemented EMC VNX 5200 and 5300 storage systems, managing both file and block storage using EMC Unisphere.  
+- Developed and maintained cloud infrastructure on HP C7000 Blade Chassis with BL460c servers running VMware vSphere 5.1–6.0, supporting scalable enterprise workloads.  
+- Deployed and maintained EMC RPAs and VNX Monitoring and Reporting systems to enhance data replication and performance monitoring.  
+- Authored NIST-compliant and FedRAMP-compliant procedures and policies to ensure adherence to regulatory and security standards.  
+- Administered Linux hosted services on RHEL and Active Directory domains, managing key services including DNS, DHCP, WINS, DFS, and IIS on Windows Server 2008 to 2016.  
+- Managed Symantec BackupExec, including media management, tape rotation schedules, and restore operations.  
+- Oversaw VMware environments, including VMware VDP and VUM, ensuring high availability and optimal performance of virtualized resources.
 
 ---
 
 ### Piper Enterprise Solutions (contractor @ PDRI) - Systems Engineer  
 Chantilly, VA (09/14 – 03/15)
 
-- Manage data center infrastructure. Including rack space, cabling, power management and all other functions of support and maintenance across multiple data centers and server rooms locally in Chantilly, VA and geographically dispersed on MPLS from Chicago, IL to Tampa, FL.
-- Configure and maintain SolarWinds for network monitoring of physical and virtual systems.
-- Configure and maintain Active Directory services.
-- Manage VMware vSphere 5.1 and 5.5 environments.
-- Manage Linux hosted services on RHEL.
-- Manage Microsoft Windows hosted services including DNS, DHCP, WINS, DFS and IIS from Server 2008 through 2012.
-- Manage VMware VDP.
-- Manage VMware VUM.
+- Managed data center operations for multiple sites across the U.S., including rack space, cabling, and power distribution, ensuring smooth daily operations.  
+- Configured and maintained SolarWinds for proactive network and system monitoring across physical and virtual infrastructures.  
+- Administered Active Directory services, including account management, Group Policy configuration, and resource access.  
+- Managed VMware vSphere environments (versions 5.1 and 5.5), including virtual machine provisioning and maintenance.  
+- Administered Linux systems on RHEL and Windows Server services (DNS, DHCP, WINS, DFS, and IIS) for environments running Windows Server 2008–2012.  
+- Maintained and updated VMware VDP and VUM, ensuring system patches and backups were performed regularly.
 
 ---
 
 ### US Steel – Sr Systems Administrator  
 Fairfield, AL (07/10 – 06/14)
 
-- Manage data center infrastructure. Including rack space, cabling, power management and all other functions of support and maintenance across multiple data centers and server rooms locally in Fairfield, Alabama and geographically dispersed on MPLS from Longview, TX to Pittsburgh, PA.
-- Managed APC Symmetra UPS System.
-- Examples, Initial implementation and configuration of VMware ESX 3 on HP DL380’s with HP MSA 1500 Fiber attached.
-- Configuration of VMware HA and DRS.
-- Upgrade VMware infrastructure through all revisions from ESX 3 through ESXi 5.5.
-- Integrated Netapp FAS 2050 into VMware infrastructure Network Attached.
-- Integrated HP C7000 Blade enclosure and HP BL460c blade servers in VMware Infrastructure.
-- Integrated additional Netapp FAS 2240’s.
-- Integrated additional HP DL 380’s and BL 460’s.
-- Integrated 10Gbe in DL’s as well as C7000. Provision CIFS, NFS and iSCSI Volumes and LUNs on Netapp FAS 2050, FAS250 and FAS2240. Proficient with VMware vCenter/vSphere.
-- Configure and maintain VMware Update Manager.
-- Proficient with Netapp Filer View and Systems Manager 1.1 - 2.1.
-- Manage active directory domain Group Policy and Active Directory Objects.
-- Manage Microsoft Windows hosted services including DNS, DHCP, WINS, DFS and IIS from Server 2000 through 2012.
-- Implement Microsoft Clustering Services leveraging SCSI DAS, Fiber attached and iSCSI LUNs.
-- Manage Linux hosted services on RHEL.
-- Document change control process via HP Service Center.
-- Develop backup strategy for Business Continuity and Disaster recover leveraging Veritas NetBackup.
-- Configure and upgrade Veritas NetBackup through versions 5 – 7.5.
-- Manage all functions of NetBackup including NDMP, NetBackup for VMware, All Policies, retention periods, off site storage, hardware upgrades of entire Backup infrastructure from LTO2-LTO5.
-- Develop standard operating procedures.
-- Develop disaster recovery plan.
+- Led the design, deployment, and management of infrastructure across multiple data centers, coordinating operations from Fairfield, AL, to geographically dispersed sites on MPLS networks.  
+- Managed the initial implementation and configuration of VMware ESX 3 on HP DL380 servers with HP MSA 1500 Fiber-attached storage, and progressively upgraded the environment through multiple VMware versions, culminating in ESXi 5.5.  
+- Deployed and integrated NetApp FAS 2050, FAS 2240, and FAS 250 storage systems into the virtualized environment, provisioning CIFS, NFS, and iSCSI volumes to support growing storage demands.  
+- Configured and maintained VMware vCenter/vSphere, ensuring high availability through VMware HA and DRS, and managed lifecycle updates using VMware Update Manager.  
+- Integrated HP C7000 Blade Systems with BL460c servers and deployed 10GbE networking to enhance data throughput and scalability.  
+- Administered Windows Server environments spanning Server 2000 through 2012, including core services such as DNS, DHCP, WINS, DFS, and IIS.  
+- Managed Linux systems on RHEL, ensuring compatibility with Windows systems and supporting various enterprise workloads.  
+- Documented processes and changes via HP Service Center to maintain compliance with operational standards.  
+- Developed and refined disaster recovery plans and SOPs for data protection and continuity.  
+- Continued oversight of Veritas NetBackup, including upgrades from version 5 to 7.5, managing NDMP, backup policies, VMware integration, and off-site storage solutions.
 
 ---
 
@@ -255,65 +230,74 @@ Hueytown, AL (09/06 – Present)
 #### Support Technology Inc. (contractor @ US Steel) – Sr Systems Administrator  
 Fairfield, AL (01/07 – 07/10)
 
-- Manage data center infrastructure. Including rack space, cabling, power management and all other functions of support and maintenance across multiple data centers and server rooms locally in Fairfield, Alabama and geographically dispersed on MPLS from Longview, TX to Pittsburgh, PA.
-- Managed APC Symmetra UPS System.
-- Manage active directory domain Group Policy and Active Directory Objects.
-- Manage Microsoft Windows hosted services including DNS, DHCP, WINS, DFS and IIS from Server 2000 through server 2008.
-- Manage Linux hosted services on RHEL.
-- Implement Microsoft Clustering Services leveraging SCSI DAS, Fiber attached and iSCSI LUNs.
-- Develop backup strategy for Business Continuity and Disaster recover leveraging Veritas NetBackup.
-- Manage all functions of NetBackup including NDMP, NetBackup for VMware, All Policies, retention periods, off site storage, hardware upgrades of entire Backup infrastructure from LTO2-LTO5.
-- Develop standard operating procedures.
-- Develop disaster recovery plan.
+- Managed data center infrastructure across multiple locations, including local data centers in Fairfield, AL, and remote sites connected via MPLS from Longview, TX, to Pittsburgh, PA.  
+- Oversaw rack space, cabling, power management, and maintenance for server rooms and deployed APC Symmetra UPS systems to ensure uninterrupted power supply.  
+- Administered Active Directory, managing Group Policies and domain resources for a large enterprise environment.  
+- Configured and managed Windows Server services (DNS, DHCP, WINS, DFS, IIS) across Server 2000 to 2008 versions, ensuring high availability and performance.  
+- Managed Linux servers running RHEL, supporting a mixed operating system environment for various enterprise applications.  
+- Implemented Microsoft Clustering Services using SCSI DAS, Fiber-attached, and iSCSI LUNs, ensuring high availability for mission-critical applications.  
+- Designed and executed a comprehensive backup strategy for business continuity using Veritas NetBackup, including NDMP, NetBackup for VMware, policy creation, off-site storage, and hardware upgrades from LTO2 to LTO5.  
+- Developed and documented standard operating procedures (SOPs) and a detailed disaster recovery plan to minimize downtime in case of infrastructure failures.
 
 #### InLine – Systems Administrator  
 Birmingham, AL (01/06 – 01/07)
 
-- Manage data center infrastructure. Including rack space, cabling, power management and all other functions of support and maintenance.
-- Manage active directory domain Group Policy and Active Directory Objects.
-- Manage Microsoft Windows hosted services including DNS, DHCP, WINS, DFS and IIS from Server 2000 through server 2003.
-- Manage Linux hosted services on SUSE, RHEL and CentOS.
-- Develop standard operating procedures.
-- Develop disaster recovery plan.
+- Expanded on prior experience in data center management, focusing on optimizing server performance and enhancing uptime across critical systems.  
+- Administered Active Directory, including advanced Group Policy configurations and managing Active Directory Objects to support scalable user and resource management.  
+- Managed Linux environments across multiple distributions, including SUSE, RHEL, and CentOS, ensuring interoperability with Windows systems.  
+- Documented standard operating procedures (SOPs) and developed workflows for routine system administration tasks to ensure consistency and efficiency.  
+- Designed a scalable disaster recovery plan, ensuring that critical services could be quickly restored with minimal data loss.
 
 #### Trillion Digital Communications – Systems Administrator  
 Birmingham, AL (01/05 – 01/06)
 
-- Manage data center infrastructure. Including rack space, cabling, power management and all other functions of support and maintenance.
-- Manage active directory domain Group Policy and Active Directory Objects.
-- Manage Microsoft Windows hosted services including DNS, DHCP, WINS, DFS and IIS from Server 2000 through server 2003.
-- Manage Linux hosted services on RHEL.
-- Develop disaster recovery plan.
-- Provide technical support on Windows XP Workstations.
+- Managed data center operations, ensuring efficient power and space utilization while maintaining high availability of critical services.  
+- Administered Active Directory environments, maintaining user access controls and configuring Group Policies to meet security and operational needs.  
+- Deployed and managed Windows Server services, ensuring high availability and minimal downtime for DNS, DHCP, WINS, and IIS services.  
+- Configured and maintained Linux systems on RHEL, optimizing performance in a mixed environment alongside Windows infrastructure.  
+- Designed and implemented an improved disaster recovery strategy, minimizing downtime and data loss during outages.  
+- Provided desktop support for Windows XP workstations, handling both hardware and software troubleshooting.
 
 #### Logista – Systems Administrator  
 Birmingham, AL (01/00 – 01/05)
 
-- Manage server infrastructure. Including rack space, cabling, power management and all other functions of support and maintenance.
-- Manage active directory domain.
-- Manage Microsoft Windows hosted services including DNS, DHCP, WINS, DFS and IIS from Server 2000 through server 2003.
-- Manage Linux hosted services on RHEL and CentOS.
-- Manage UNIX hosted services on Sun Solaris.
-- Manage HP OpenView.
-- Develop disaster recovery plan.
-- Managed Veritas Backup Exec.
-- Provide technical support on Windows 98 and Windows XP Workstations.
+- Led the design and management of data center infrastructure, overseeing rack space, cabling, power distribution, and server maintenance, ensuring 24/7 availability of critical business systems.  
+- Administered Active Directory domains, implementing user management strategies, Group Policy configurations, and domain services for enterprise-level environments.  
+- Managed enterprise-level Windows Server environments (2000–2003), including core services such as DNS, DHCP, WINS, DFS, and IIS.  
+- Configured and supported Linux (RHEL, CentOS) and UNIX (Sun Solaris) systems, ensuring compatibility and uptime in mixed operating system environments.  
+- Implemented proactive network monitoring using HP OpenView, resulting in early detection and resolution of performance issues.  
+- Developed and tested a disaster recovery plan covering both physical and virtual servers, ensuring rapid recovery in case of system failures.  
+- Managed Veritas Backup Exec, including creating backup policies, scheduling, and off-site storage management.  
+- Provided comprehensive technical support for end-users on Windows 98 and Windows XP, resolving hardware and software issues.
 
-#### University of Alabama at Birmingham – Kaleidoscope Student News Paper Web Editor  
-Birmingham, AL (04/98 – 04/99)
+#### University of Alabama at Birmingham – Kaleidoscope Student Publication Web Editor  
+Birmingham, AL (05/97 – 07/98)
 
-- HTML/CSS.
+- Built and maintained web pages for the university’s student publication using early web development technologies, including HTML and CSS.  
+- Gained hands-on experience with Macintosh PCs and servers, working in a mixed print and digital media environment.  
+- Utilized QuarkXPress to design and edit the print layout of the publication, ensuring alignment with the digital version.  
+- Collaborated with editorial staff to model print layouts using a paper board before digital entry, contributing to both online and physical distribution.  
+- Assisted in the delivery of printed publications across campus.  
+- Developed a passion for web development during this period, experimenting with early website creation tools and honing foundational skills in front-end design. 
 
 #### University of Alabama at Birmingham – PC Support Technician  
 Birmingham, AL (04/97 – 01/00)
 
-- Manage Department of Mathematics LAN, PCs and printers.
-- Provide technical support to Department of Mathematics faculty, staff and students.
-- Provide technical support on MS Windows 95 Workstations.
+- Managed the Department of Mathematics LAN, ensuring reliable connectivity for faculty, staff, and student workstations and printers.  
+- Provided technical support for hardware and software issues on MS Windows 95 systems, including installation, configuration, and troubleshooting.  
+- Assisted in maintaining and upgrading network infrastructure and peripheral devices, ensuring minimal downtime and efficient operation.  
+- Supported faculty, staff, and students with desktop applications, enhancing productivity and resolving technical issues.  
+- Gained early experience in IT support and systems administration, building a foundational understanding of networked environments and user support.
 
-#### Freelance Web Design, IT Consultant  
-Birmingham, AL (07/95 – Present)
+#### Freelance Web Developer & IT Consultant  
+Birmingham, AL (07/95 – 01/00)
 
-- Provide technical support.
+- Built and maintained simple static websites for local businesses using HTML and inline CSS, ensuring compatibility with early web browsers such as Netscape Navigator and Internet Explorer.  
+- Designed graphics and optimized images for web use, using tools like Adobe Photoshop 3.0 and CorelDRAW.  
+- Set up domain registration and web hosting for clients, including configuring FTP clients for uploading website files.  
+- Provided PC setup, software installation, and dial-up internet configuration for small businesses and individuals.  
+- Configured and maintained small local networks (LANs) using Ethernet and TCP/IP, ensuring reliable connectivity for client offices.  
+- Delivered training and technical support, teaching clients how to use email, browse the web, and leverage office productivity tools such as Microsoft Office 95.  
+- Advised clients on hardware and software purchases, tailoring solutions to meet their business needs.
 
 ---

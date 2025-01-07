@@ -56,6 +56,8 @@ CI Poly
 - Storage Solutions: EMC VNX, SAN/NAS management, NetApp systems
 - Networking & Security: DNS, DHCP, Active Directory, Azure NSGs, Security Contexts in Kubernetes
 - Identity & Access Management (IAM): Microsoft Entra ID (Azure Active Directory), Service Principal, Managed Identities, RBAC
+- Infrastructure as Code: Ansible, CI/CD, YAML, JSON, Bash, Python, Vault
+- Web Development: HTML, CSS, React, Node.js, Jekyll
 - Productivity Software: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, OneNote, Teams, Visio)
 - Documentation: Writing SOPs, engineering specifications, service-level reporting
 - Data Center Operations: Rack management, cabling, power management
@@ -64,10 +66,10 @@ CI Poly
 
 ## Work Experience
 
-### Full Visibility (Contractor @ FBI) – Lead Technical Consultant and Sr Cloud Engineer  
+### Full Visibility (Contractor @ FBI) – Lead Cloud Engineer & Technical Consultant  
 Quantico, VA (06/22 – Present)
 
-#### Sr Cloud Engineer
+#### Lead Cloud Engineer
 - Provide system support for Azure Cloud environment and hosted services such as GitLab, Mattermost, Ansible(Tower) and K8s.
 - Develop, maintain, and operate departmental Linux and container infrastructure. 
 - Develop and maintain infrastructure platform service solutions.
@@ -109,7 +111,7 @@ Stafford, VA (10/21 – Present)
 
 ---
 
-### The Judge Group (Contractor @ Alexion Pharmaceuticals/AstraZeneca) – Sr Systems Engineer and Hyperconverged Infrastructure SME  
+### The Judge Group (Contractor @ Alexion Pharmaceuticals/AstraZeneca) – Sr. Infrastructure Engineer – Cloud & Virtualization  
 Telework | New Haven, CT (12/21 – 06/22)
 
 - Led the migration of all virtual systems and data from Alexion Pharmaceuticals to AstraZeneca, including VMware-hosted environments transitioned into Azure using Cohesity DataProtect.
@@ -120,7 +122,7 @@ Telework | New Haven, CT (12/21 – 06/22)
 
 ---
 
-### Leidos (ARL-E Program, Contractor @ DOD) - IT Integration Engineer  
+### Leidos (ARL-E Program, Contractor @ DOD) - Principal IT Integration Engineer  
 Manassas, VA (04/20 – 12/21)
 
 - Designed, developed, troubleshot, and debugged advanced surveillance and reconnaissance systems, ensuring operational readiness in a classified, high-stakes environment.
@@ -135,7 +137,7 @@ Manassas, VA (04/20 – 12/21)
 
 ---
 
-### Leidos (Contractor @ US DOJ) – Sr Systems Engineer  
+### Leidos (Contractor @ US DOJ) – Sr. Infrastructure Engineer – Data Protection  
 Washington, D.C. (12/18 – 04/20)
 
 - Managed enterprise backup solutions, including Veritas NetBackup, Azure Backup, and Cohesity, ensuring data protection, retention, and rapid recovery capabilities for critical systems.  
@@ -150,14 +152,14 @@ Washington, D.C. (12/18 – 04/20)
 
 ---
 
-### Leidos (Contractor @ US Mint) – Backup Administrator  
+### Leidos (Contractor @ US Mint) – Sr. Systems Engineer  
 Washington, D.C. (12/18 – 09/19)
 
-- Provided reach-back support for Veritas NetBackup systems.
+- Provided Leidos contract reach-back support for Veritas NetBackup systems.
 
 ---
 
-### Ingersoll Consulting (Contractor @ US Mint) – Systems Engineer/Sr Backup Administrator  
+### Ingersoll Consulting (Contractor @ US Mint) – Sr. Systems Engineer – Data Protection & Infrastructure  
 Washington, D.C. (05/17 – 12/18)
 
 - Managed and maintained Veritas NetBackup environments, including appliances, media, tape libraries, and off-site storage, ensuring reliable backups, restores, and disaster recovery readiness.  
@@ -198,7 +200,7 @@ Chantilly, VA (09/14 – 03/15)
 
 ---
 
-### US Steel – Sr Systems Administrator  
+### US Steel – Sr. Systems Engineer – Virtualization & Storage  
 Fairfield, AL (07/10 – 06/14)
 
 - Led the design, deployment, and management of infrastructure across multiple data centers, coordinating operations from Fairfield, AL, to geographically dispersed sites on MPLS networks.  
@@ -227,7 +229,7 @@ Hueytown, AL (09/06 – Present)
 - Implemented security best practices, including user input validation and SSL certificate management to ensure secure transactions.  
 - Discontinued the marketplace project after the rise of larger platforms like Etsy, subsequently repurposing the business for general IT consulting services.
 
-#### Support Technology Inc. (contractor @ US Steel) – Sr Systems Administrator  
+#### Support Technology Inc. (contractor @ US Steel) – Sr. Infrastructure Engineer  
 Fairfield, AL (01/07 – 07/10)
 
 - Managed data center infrastructure across multiple locations, including local data centers in Fairfield, AL, and remote sites connected via MPLS from Longview, TX, to Pittsburgh, PA.  
@@ -239,7 +241,7 @@ Fairfield, AL (01/07 – 07/10)
 - Designed and executed a comprehensive backup strategy for business continuity using Veritas NetBackup, including NDMP, NetBackup for VMware, policy creation, off-site storage, and hardware upgrades from LTO2 to LTO5.  
 - Developed and documented standard operating procedures (SOPs) and a detailed disaster recovery plan to minimize downtime in case of infrastructure failures.
 
-#### InLine – Systems Administrator  
+#### InLine – IT Systems Engineer  
 Birmingham, AL (01/06 – 01/07)
 
 - Expanded on prior experience in data center management, focusing on optimizing server performance and enhancing uptime across critical systems.  
@@ -270,7 +272,7 @@ Birmingham, AL (01/00 – 01/05)
 - Managed Veritas Backup Exec, including creating backup policies, scheduling, and off-site storage management.  
 - Provided comprehensive technical support for end-users on Windows 98 and Windows XP, resolving hardware and software issues.
 
-#### University of Alabama at Birmingham – Kaleidoscope Student Publication Web Editor  
+#### University of Alabama at Birmingham – Kaleidoscope Student Publication Web Editor & Content Manager  
 Birmingham, AL (05/97 – 07/98)
 
 - Built and maintained web pages for the university’s student publication using early web development technologies, including HTML and CSS.  
@@ -280,7 +282,7 @@ Birmingham, AL (05/97 – 07/98)
 - Assisted in the delivery of printed publications across campus.  
 - Developed a passion for web development during this period, experimenting with early website creation tools and honing foundational skills in front-end design. 
 
-#### University of Alabama at Birmingham – PC Support Technician  
+#### University of Alabama at Birmingham – IT Support Technician  
 Birmingham, AL (04/97 – 01/00)
 
 - Managed the Department of Mathematics LAN, ensuring reliable connectivity for faculty, staff, and student workstations and printers.  

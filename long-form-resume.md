@@ -93,7 +93,7 @@ Quantico, VA (06/22 – Present)
 ---
 
 ### Data Craftworks, LLC – Founder & Solutions Architect  
-Stafford, VA (10/23 – Present)
+Stafford, VA (10/21 – Present)
 
 - Designed and implemented a hyperconverged infrastructure using Proxmox in a multinode cluster, leveraging high availability (HA) and integrated backup features to ensure system reliability and continuity.  
 - Configured and maintained reverse proxy solutions using NGINX, Traefik, and Caddy for secure and efficient routing of hosted services.  
@@ -239,12 +239,18 @@ Fairfield, AL (07/10 – 06/14)
 
 ---
 
-### Craft Work Forge, LLC – Founder  
-Hueytown, AL (09/08 – Present)
+#### Craft Work Forge, LLC – Founder & Lead Developer  
+Hueytown, AL (09/06 – Present)
  
-- Provided end-to-end IT consulting services, covering infrastructure design, hosting solutions, and custom web development.
-
----
+- Independently designed, developed, and deployed a regional online marketplace using PHP and MySQL/PostgreSQL, hosted on a shared LAMP stack environment (Linux, Apache, PHP, MySQL/PostgreSQL).  
+- Built a custom PHP-based e-commerce platform, featuring user account management, product listings, shopping cart functionality, and order processing.  
+- Developed and maintained dynamic front-end interfaces using HTML, CSS, and JavaScript to create a clean and user-friendly experience.  
+- Configured and optimized Apache web server settings for efficient hosting and performance.  
+- Utilized cPanel for server and database management, including routine backups, domain configuration, and SSL setup.  
+- Integrated and maintained WordPress and Joomla installations to serve as content management systems (CMS) for various sections of the platform.  
+- Managed PostgreSQL databases, including schema design, query optimization, and data integrity checks.  
+- Implemented security best practices, including user input validation and SSL certificate management to ensure secure transactions.  
+- Discontinued the marketplace project after the rise of larger platforms like Etsy, subsequently repurposing the business for general IT consulting services.
 
 #### Support Technology Inc. (contractor @ US Steel) – Sr Systems Administrator  
 Fairfield, AL (01/07 – 07/10)
@@ -304,8 +310,6 @@ Birmingham, AL (04/97 – 01/00)
 - Manage Department of Mathematics LAN, PCs and printers.
 - Provide technical support to Department of Mathematics faculty, staff and students.
 - Provide technical support on MS Windows 95 Workstations.
-
----
 
 #### Freelance Web Design, IT Consultant  
 Birmingham, AL (07/95 – Present)

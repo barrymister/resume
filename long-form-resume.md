@@ -18,11 +18,11 @@ To advance as a Principal Engineer and Web Developer by leveraging my extensive 
 - MongoDB Associate Developer
 - PCEP™ Certified Entry-Level Python Programmer
 - Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
 - Cisco Certified Network Associate
-- CompTIA SecurityX
 - CompTIA Project+
 - CompTIA Cloud Essentials
 - Certified ScrumMaster®

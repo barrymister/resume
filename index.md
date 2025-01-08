@@ -21,7 +21,7 @@ This site contains an overview of my experience and skills. For more detailed in
 
 ## Work Experience Summary
 
-Experienced Systems Engineer and Technical Consultant with over 20 years of expertise in IT infrastructure, cloud services, and data center operations. Proven ability to design, deploy, and manage enterprise systems across diverse industries, including government, healthcare, and private sectors. Skilled in virtualization, automation, and cloud-native technologies, with a strong focus on process optimization, system reliability, and team leadership.
+Dynamic Principal Engineer and Web Developer, with over 20 years of experience in IT infrastructure, cloud services, and web development. Demonstrated success in designing, deploying, and managing enterprise systems across government, healthcare, and private sectors. Proficient in virtualization, automation, and cloud-native technologies, with hands-on expertise in full-stack web development using modern frameworks. Known for driving process optimization, system reliability, and team leadership, with a forward-looking goal of leading innovative engineering projects and scalable web solutions.
 
 ## Skills
 

@@ -6,13 +6,17 @@
 
 ## Objective
 
-To leverage my expertise in cloud engineering, infrastructure management, and technical leadership to deliver scalable solutions, drive innovation, and enhance operational efficiency.
+To advance as a Principal Engineer and Web Developer by leveraging my extensive experience in IT infrastructure, cloud engineering, and full-stack development. Passionate about delivering scalable, secure, and innovative solutions while fostering technical excellence and leading cross-functional teams. Focused on embracing emerging technologies, improving system performance, and contributing to cutting-edge web and enterprise projects.
 
 ---
 
 ## Certifications & Licenses
 
 ### Active
+- Certified Kubernetes Administrator
+- OpenJS Node.js Application Developer
+- MongoDB Associate Developer
+- PCEP™ Certified Entry-Level Python Programmer
 - Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure AI Fundamentals

@@ -21,6 +21,7 @@ To advance as a Principal Engineer and Web Developer by leveraging my extensive 
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
+- Cisco Certified Network Associate
 - CompTIA SecurityX
 - CompTIA Project+
 - CompTIA Cloud Essentials

@@ -10,15 +10,6 @@ To leverage my expertise in cloud engineering, infrastructure management, and te
 
 ---
 
-## Education
-
-- Graduate, US Navy Basic Enlisted Submarine School, Groton, Connecticut. 1995.
-- Graduate, US Navy Basic Training, Great Lakes, Michigan. 1994.
-- Basic Electricity Graduate, Calhoun County Area Vocational Center, Jacksonville, Alabama, 1994.
-- Graduate, Weaver High School, Weaver, Alabama, 1994.
-
----
-
 ## Certifications & Licenses
 
 ### Active
@@ -318,5 +309,14 @@ Birmingham, AL (04/97 – 01/00)
 - Assisted in maintaining and upgrading network infrastructure and peripheral devices, ensuring minimal downtime and efficient operation.  
 - Supported faculty, staff, and students with desktop applications, enhancing productivity and resolving technical issues.  
 - Gained early experience in IT support and systems administration, building a foundational understanding of networked environments and user support.
+
+---
+
+## Education
+
+- Graduate, US Navy Basic Enlisted Submarine School, Groton, Connecticut. 1995.
+- Graduate, US Navy Basic Training, Great Lakes, Michigan. 1994.
+- Basic Electricity Graduate, Calhoun County Area Vocational Center, Jacksonville, Alabama, 1994.
+- Graduate, Weaver High School, Weaver, Alabama, 1994.
 
 ---

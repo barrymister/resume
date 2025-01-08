@@ -56,7 +56,7 @@ CI Poly
 - Identity & Access Management (IAM): Entra ID (Azure AD), RBAC, Managed Identities, Service Principal  
 - Infrastructure as Code (IaC): Ansible, YAML, JSON, PowerShell, Bash, Python, Vault  
 - Monitoring & ITSM Tools: ServiceNow, Remedy, JIRA, Confluence, Prometheus, Grafana, SolarWinds  
-- Web Development: HTML, CSS, React, Node.js, Jekyll, WordPress, Joomla  
+- Web Development: HTML, CSS, JavaScript, PHP, React, Node.js, Jekyll, WordPress, Joomla  
 - Productivity & Documentation: Microsoft Office Suite, SOPs, Engineering Specs, Service-Level Reporting  
 - Data Center Operations: Multi-Site Management, Rack Management, Cabling, Power Management, UPS Systems
 

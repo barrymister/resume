@@ -56,7 +56,7 @@ CI Poly
 - Storage Solutions: EMC VNX, SAN/NAS management, NetApp systems
 - Networking & Security: DNS, DHCP, Active Directory, Azure NSGs, Security Contexts in Kubernetes
 - Identity & Access Management (IAM): Microsoft Entra ID (Azure Active Directory), Service Principal, Managed Identities, RBAC
-- Infrastructure as Code: Ansible, CI/CD, YAML, JSON, Bash, Python, Vault
+- Infrastructure as Code: Ansible, CI/CD, YAML, JSON, PowerShell, Bash, Python, Vault
 - Web Development: HTML, CSS, React, Node.js, Jekyll
 - Productivity Software: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, OneNote, Teams, Visio)
 - Documentation: Writing SOPs, engineering specifications, service-level reporting
@@ -292,7 +292,7 @@ Birmingham, AL (04/97 – 01/00)
 - Gained early experience in IT support and systems administration, building a foundational understanding of networked environments and user support.
 
 #### Freelance Web Developer & IT Consultant  
-Birmingham, AL (07/95 – 01/00)
+Birmingham, AL (07/97 – 01/00)
 
 - Built and maintained simple static websites for local businesses using HTML and inline CSS, ensuring compatibility with early web browsers such as Netscape Navigator and Internet Explorer.  
 - Designed graphics and optimized images for web use, using tools like Adobe Photoshop 3.0 and CorelDRAW.  

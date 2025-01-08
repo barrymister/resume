@@ -6,7 +6,7 @@
 
 ## Objective
 
-To provide technical leadership and support engineering, project management, and systems development.
+To leverage my expertise in cloud engineering, infrastructure management, and technical leadership to deliver scalable solutions, drive innovation, and enhance operational efficiency.
 
 ---
 
@@ -22,13 +22,16 @@ To provide technical leadership and support engineering, project management, and
 ## Certifications & Licenses
 
 ### Active
+- Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
+- CompTIA SecurityX
 - CompTIA Project+
 - CompTIA Cloud Essentials
-- LPI Linux Essentials
+- Certified ScrumMaster®
 - AXELOS ITIL® Foundation
+- LPI Linux Essentials
 - FCC Amateur Radio Technician License
 
 ### Former
@@ -49,18 +52,18 @@ CI Poly
 
 ## Skills
 
-- Cloud & Containers: Microsoft Azure, Azure Kubernetes Service (AKS), Kubernetes (K8s/K3s), Docker, GitLab, Cloud-Native Technologies
-- Operating Systems: Windows Desktop & Server, Linux (Ubuntu, Debian, RHEL, CentOS, SUSE)
-- Virtualization & Hyperconverged Infrastructure: VMware vCenter/vSphere, Microsoft Hyper-V, Proxmox, Veritas Backup Exec, Cohesity Data Protect
-- Server Management: HP Blade Systems, Dell PowerEdge, Cisco UCS, HP iLO, Dell iDRAC
-- Storage Solutions: EMC VNX, SAN/NAS management, NetApp systems
-- Networking & Security: DNS, DHCP, Active Directory, Azure NSGs, Security Contexts in Kubernetes
-- Identity & Access Management (IAM): Microsoft Entra ID (Azure Active Directory), Service Principal, Managed Identities, RBAC
-- Infrastructure as Code: Ansible, CI/CD, YAML, JSON, PowerShell, Bash, Python, Vault
-- Web Development: HTML, CSS, React, Node.js, Jekyll
-- Productivity Software: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, OneNote, Teams, Visio)
-- Documentation: Writing SOPs, engineering specifications, service-level reporting
-- Data Center Operations: Rack management, cabling, power management
+- IT Management & Governance: Agile, Scrum, ITIL, ITSM, Incident Management, Change Management, Problem Management, Service Level Management, CSI  
+- Cloud & Containers: Microsoft Azure, AKS, Kubernetes, Docker, GitLab CI/CD, Cloud-Native Technologies  
+- Operating Systems: Windows Server, Linux (Ubuntu, Debian, RHEL, CentOS, SUSE)  
+- Virtualization, Hyperconverged & Server Infrastructure: VMware vSphere, Microsoft Hyper-V, Proxmox, HP Blade Systems, Dell PowerEdge, Cisco UCS  
+- Backup & Storage: Veritas NetBackup, Cohesity, EMC VNX, NetApp, SAN/NAS, LTO Tape Systems  
+- Networking & Security: DNS, DHCP, Active Directory, Azure NSGs, VPN, VLAN, Firewall Management, Security Contexts  
+- Identity & Access Management (IAM): Entra ID (Azure AD), RBAC, Managed Identities, Service Principal  
+- Infrastructure as Code (IaC): Ansible, YAML, JSON, PowerShell, Bash, Python, Vault  
+- Monitoring & ITSM Tools: ServiceNow, Remedy, JIRA, Confluence, Prometheus, Grafana, SolarWinds  
+- Web Development: HTML, CSS, React, Node.js, Jekyll, WordPress, Joomla  
+- Productivity & Documentation: Microsoft Office Suite, SOPs, Engineering Specs, Service-Level Reporting  
+- Data Center Operations: Multi-Site Management, Rack Management, Cabling, Power Management, UPS Systems
 
 ---
 
@@ -111,7 +114,7 @@ Stafford, VA (10/21 – Present)
 
 ---
 
-### The Judge Group (Contractor @ Alexion Pharmaceuticals/AstraZeneca) – Sr. Infrastructure Engineer – Cloud & Virtualization  
+### The Judge Group (Contractor @ Alexion Pharmaceuticals/AstraZeneca) – Sr. Infrastructure Engineer  
 Telework | New Haven, CT (12/21 – 06/22)
 
 - Led the migration of all virtual systems and data from Alexion Pharmaceuticals to AstraZeneca, including VMware-hosted environments transitioned into Azure using Cohesity DataProtect.
@@ -137,7 +140,7 @@ Manassas, VA (04/20 – 12/21)
 
 ---
 
-### Leidos (Contractor @ US DOJ) – Sr. Infrastructure Engineer – Data Protection  
+### Leidos (Contractor @ US DOJ) – Sr. Infrastructure Engineer  
 Washington, D.C. (12/18 – 04/20)
 
 - Managed enterprise backup solutions, including Veritas NetBackup, Azure Backup, and Cohesity, ensuring data protection, retention, and rapid recovery capabilities for critical systems.  
@@ -159,7 +162,7 @@ Washington, D.C. (12/18 – 09/19)
 
 ---
 
-### Ingersoll Consulting (Contractor @ US Mint) – Sr. Systems Engineer – Data Protection & Infrastructure  
+### Ingersoll Consulting (Contractor @ US Mint) – Sr. Systems Engineer  
 Washington, D.C. (05/17 – 12/18)
 
 - Managed and maintained Veritas NetBackup environments, including appliances, media, tape libraries, and off-site storage, ensuring reliable backups, restores, and disaster recovery readiness.  
@@ -174,7 +177,7 @@ Washington, D.C. (05/17 – 12/18)
 
 ---
 
-### PDRI – Systems Engineer  
+### PDRI – Sr. Systems Engineer  
 Chantilly, VA (03/15 – 05/17)
 
 - Managed data center infrastructure across multiple geographically dispersed sites, including rack space, cabling, and power management, ensuring reliable data center operations.  
@@ -188,7 +191,7 @@ Chantilly, VA (03/15 – 05/17)
 
 ---
 
-### Piper Enterprise Solutions (contractor @ PDRI) - Systems Engineer  
+### Piper Enterprise Solutions (contractor @ PDRI) - Sr. Systems Engineer  
 Chantilly, VA (09/14 – 03/15)
 
 - Managed data center operations for multiple sites across the U.S., including rack space, cabling, and power distribution, ensuring smooth daily operations.  
@@ -200,7 +203,7 @@ Chantilly, VA (09/14 – 03/15)
 
 ---
 
-### US Steel – Sr. Systems Engineer – Virtualization & Storage  
+### US Steel – Sr. Systems Engineer  
 Fairfield, AL (07/10 – 06/14)
 
 - Led the design, deployment, and management of infrastructure across multiple data centers, coordinating operations from Fairfield, AL, to geographically dispersed sites on MPLS networks.  
@@ -216,12 +219,12 @@ Fairfield, AL (07/10 – 06/14)
 
 ---
 
-#### Craft Work Forge, LLC – Founder & Lead Developer  
+### Craft Work Forge, LLC – Founder & Lead Developer  
 Hueytown, AL (09/06 – Present)
  
 - Independently designed, developed, and deployed a regional online marketplace using PHP and MySQL/PostgreSQL, hosted on a shared LAMP stack environment (Linux, Apache, PHP, MySQL/PostgreSQL).  
 - Built a custom PHP-based e-commerce platform, featuring user account management, product listings, shopping cart functionality, and order processing.  
-- Developed and maintained dynamic front-end interfaces using HTML, CSS, and JavaScript to create a clean and user-friendly experience.  
+- Developed and maintained dynamic front-end interfaces using HTML, CSS, and PHP to create a clean and user-friendly experience.  
 - Configured and optimized Apache web server settings for efficient hosting and performance.  
 - Utilized cPanel for server and database management, including routine backups, domain configuration, and SSL setup.  
 - Integrated and maintained WordPress and Joomla installations to serve as content management systems (CMS) for various sections of the platform.  
@@ -229,7 +232,9 @@ Hueytown, AL (09/06 – Present)
 - Implemented security best practices, including user input validation and SSL certificate management to ensure secure transactions.  
 - Discontinued the marketplace project after the rise of larger platforms like Etsy, subsequently repurposing the business for general IT consulting services.
 
-#### Support Technology Inc. (contractor @ US Steel) – Sr. Infrastructure Engineer  
+---
+
+### Support Technology Inc. (contractor @ US Steel) – Sr. Systems Engineer  
 Fairfield, AL (01/07 – 07/10)
 
 - Managed data center infrastructure across multiple locations, including local data centers in Fairfield, AL, and remote sites connected via MPLS from Longview, TX, to Pittsburgh, PA.  
@@ -241,7 +246,9 @@ Fairfield, AL (01/07 – 07/10)
 - Designed and executed a comprehensive backup strategy for business continuity using Veritas NetBackup, including NDMP, NetBackup for VMware, policy creation, off-site storage, and hardware upgrades from LTO2 to LTO5.  
 - Developed and documented standard operating procedures (SOPs) and a detailed disaster recovery plan to minimize downtime in case of infrastructure failures.
 
-#### InLine – IT Systems Engineer  
+---
+
+### InLine – Systems Engineer  
 Birmingham, AL (01/06 – 01/07)
 
 - Expanded on prior experience in data center management, focusing on optimizing server performance and enhancing uptime across critical systems.  
@@ -250,7 +257,9 @@ Birmingham, AL (01/06 – 01/07)
 - Documented standard operating procedures (SOPs) and developed workflows for routine system administration tasks to ensure consistency and efficiency.  
 - Designed a scalable disaster recovery plan, ensuring that critical services could be quickly restored with minimal data loss.
 
-#### Trillion Digital Communications – Systems Administrator  
+---
+
+### Trillion Digital Communications – Systems Administrator  
 Birmingham, AL (01/05 – 01/06)
 
 - Managed data center operations, ensuring efficient power and space utilization while maintaining high availability of critical services.  
@@ -260,7 +269,9 @@ Birmingham, AL (01/05 – 01/06)
 - Designed and implemented an improved disaster recovery strategy, minimizing downtime and data loss during outages.  
 - Provided desktop support for Windows XP workstations, handling both hardware and software troubleshooting.
 
-#### Logista – Systems Administrator  
+---
+
+### Logista – Systems Administrator  
 Birmingham, AL (01/00 – 01/05)
 
 - Led the design and management of data center infrastructure, overseeing rack space, cabling, power distribution, and server maintenance, ensuring 24/7 availability of critical business systems.  
@@ -272,26 +283,9 @@ Birmingham, AL (01/00 – 01/05)
 - Managed Veritas Backup Exec, including creating backup policies, scheduling, and off-site storage management.  
 - Provided comprehensive technical support for end-users on Windows 98 and Windows XP, resolving hardware and software issues.
 
-#### University of Alabama at Birmingham – Kaleidoscope Student Publication Web Editor & Content Manager  
-Birmingham, AL (05/97 – 07/98)
+---
 
-- Built and maintained web pages for the university’s student publication using early web development technologies, including HTML and CSS.  
-- Gained hands-on experience with Macintosh PCs and servers, working in a mixed print and digital media environment.  
-- Utilized QuarkXPress to design and edit the print layout of the publication, ensuring alignment with the digital version.  
-- Collaborated with editorial staff to model print layouts using a paper board before digital entry, contributing to both online and physical distribution.  
-- Assisted in the delivery of printed publications across campus.  
-- Developed a passion for web development during this period, experimenting with early website creation tools and honing foundational skills in front-end design. 
-
-#### University of Alabama at Birmingham – IT Support Technician  
-Birmingham, AL (04/97 – 01/00)
-
-- Managed the Department of Mathematics LAN, ensuring reliable connectivity for faculty, staff, and student workstations and printers.  
-- Provided technical support for hardware and software issues on MS Windows 95 systems, including installation, configuration, and troubleshooting.  
-- Assisted in maintaining and upgrading network infrastructure and peripheral devices, ensuring minimal downtime and efficient operation.  
-- Supported faculty, staff, and students with desktop applications, enhancing productivity and resolving technical issues.  
-- Gained early experience in IT support and systems administration, building a foundational understanding of networked environments and user support.
-
-#### Freelance Web Developer & IT Consultant  
+### Freelance Web Developer & IT Consultant  
 Birmingham, AL (07/97 – 01/00)
 
 - Built and maintained simple static websites for local businesses using HTML and inline CSS, ensuring compatibility with early web browsers such as Netscape Navigator and Internet Explorer.  
@@ -301,5 +295,28 @@ Birmingham, AL (07/97 – 01/00)
 - Configured and maintained small local networks (LANs) using Ethernet and TCP/IP, ensuring reliable connectivity for client offices.  
 - Delivered training and technical support, teaching clients how to use email, browse the web, and leverage office productivity tools such as Microsoft Office 95.  
 - Advised clients on hardware and software purchases, tailoring solutions to meet their business needs.
+
+---
+
+### University of Alabama at Birmingham – Kaleidoscope Student Publication Web Editor & Content Manager  
+Birmingham, AL (05/97 – 07/98)
+
+- Built and maintained web pages for the university’s student publication using early web development technologies, including HTML and CSS.  
+- Gained hands-on experience with Macintosh PCs and servers, working in a mixed print and digital media environment.  
+- Utilized QuarkXPress to design and edit the print layout of the publication, ensuring alignment with the digital version.  
+- Collaborated with editorial staff to model print layouts using a paper board before digital entry, contributing to both online and physical distribution.  
+- Assisted in the delivery of printed publications across campus.  
+- Developed a passion for web development during this period, experimenting with early website creation tools and honing foundational skills in front-end design. 
+
+---
+
+### University of Alabama at Birmingham – IT Support Technician  
+Birmingham, AL (04/97 – 01/00)
+
+- Managed the Department of Mathematics LAN, ensuring reliable connectivity for faculty, staff, and student workstations and printers.  
+- Provided technical support for hardware and software issues on MS Windows 95 systems, including installation, configuration, and troubleshooting.  
+- Assisted in maintaining and upgrading network infrastructure and peripheral devices, ensuring minimal downtime and efficient operation.  
+- Supported faculty, staff, and students with desktop applications, enhancing productivity and resolving technical issues.  
+- Gained early experience in IT support and systems administration, building a foundational understanding of networked environments and user support.
 
 ---

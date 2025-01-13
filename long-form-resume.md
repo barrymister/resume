@@ -1,5 +1,7 @@
 # Barry Mister
 
+[barry@barrymister.com](mailto:barry@barrymister.com)
+
 ---
 
 ## Objective

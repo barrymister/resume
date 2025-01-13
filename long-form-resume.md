@@ -30,7 +30,7 @@ To advance as a Principal Engineer and Web Developer by leveraging my extensive 
 - AXELOS ITIL® Foundation
 - LPI Linux Essentials
 - FCC Amateur Radio Technician License
-- [University of Pennsylvania Law School - An Introduction to American Law](https://coursera.org/share/94191d9199bf5618dada0c6f0b623310)
+- [Coursera - An Introduction to American Law](https://coursera.org/share/94191d9199bf5618dada0c6f0b623310)
 
 ### Former
 - CompTIA A+
